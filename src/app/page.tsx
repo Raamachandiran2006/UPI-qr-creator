@@ -25,7 +25,7 @@ import {
 } from "@/components/ui/form";
 import { QRCodeDisplay } from "@/components/qr-code-display";
 
-const UPI_ID = "9363289355-2@ibl";
+const UPI_ID = "sendhurjuiceandsnacks@oksbi";
 const PAYEE_NAME = "Sendhur Juice and Snacks";
 
 const formSchema = z.object({
